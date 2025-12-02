@@ -1,6 +1,6 @@
 [
   {
-    "enunciado": "Após uma longa temporada de batalhas, você e seu clã finalmente subiram para uma nova liga. Para comemorar, o líder do clã decide organizar um debate sobre as melhores estratégias para se manter na nova liga. A principal questão levantada é: como as cartas lendárias afetam o jogo? Nesse debate, qual a sua posição?",
+    "enunciado": "Meu primeiro perfume foi o malbec magnetic",
     "alternativas": [
       {
         "texto": "Defende que as cartas lendárias, apesar de raras, criam um novo meta e desafiam os jogadores a criarem novas estratégias e combos.",
